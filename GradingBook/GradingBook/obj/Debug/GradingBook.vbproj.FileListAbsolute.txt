@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\GradingBook\GradingBook\bin\Debug\GradingBook.exe.config
+C:\Users\Administrator\Desktop\GradingBook\GradingBook\bin\Debug\GradingBook.exe
+C:\Users\Administrator\Desktop\GradingBook\GradingBook\bin\Debug\GradingBook.pdb
+C:\Users\Administrator\Desktop\GradingBook\GradingBook\bin\Debug\GradingBook.xml
+C:\Users\Administrator\Desktop\GradingBook\GradingBook\obj\Debug\GradingBook.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GradingBook\GradingBook\obj\Debug\GradingBook.Resources.resources
+C:\Users\Administrator\Desktop\GradingBook\GradingBook\obj\Debug\GradingBook.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\GradingBook\GradingBook\obj\Debug\GradingBook.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GradingBook\GradingBook\obj\Debug\GradingBook.exe
+C:\Users\Administrator\Desktop\GradingBook\GradingBook\obj\Debug\GradingBook.xml
+C:\Users\Administrator\Desktop\GradingBook\GradingBook\obj\Debug\GradingBook.pdb
